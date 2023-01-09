@@ -1,6 +1,6 @@
 ## Dog Breed Identification
 
-![alt text](https://github.com/AsaadAreeb/doggo/tree/main/src/doggo.jpg?raw=true)
+![alt text](https://github.com/AsaadAreeb/doggo/blob/main/src/doggo.jpg?raw=true)
 
 competition: https://www.kaggle.com/competitions/dog-breed-identification/overview
 
